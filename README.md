@@ -6,7 +6,8 @@
 My name is Amir. I majored in Computer Engineering heavily interested in the business world!
 
 
-## I'm currently working on: developing applications.
+## 👷🏼‍♂️I'm currently working on: 
+developing applications
 
 In Progress:
 - Medical Transcription Tool
