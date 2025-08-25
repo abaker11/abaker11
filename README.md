@@ -1,5 +1,6 @@
 ## Hi, I'm Amir! 🤴🏻
 
+**` Software Engineer `**
 
 ##  About me 
 My name is Amir, and I majored in Computer Engineering heavily interested in the business world!
