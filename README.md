@@ -13,6 +13,7 @@ In Progress:
 - Stock Swing Trading
 - CS2 Skin Market Extension
 - ADHD & Focus support (Potentially pivot to a therapy app)
+- Meal suggestion
 
 Interests: 
 - Video games (CS2, VALORANT, FORTNITE, LEAGUE OF LEGENDS)
