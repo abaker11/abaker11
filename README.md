@@ -3,14 +3,18 @@
 **` Software Engineer `**
 
 ##  About me 
-My name is Amir, and I majored in Computer Engineering heavily interested in the business world!
+My name is Amir. I majored in Computer Engineering heavily interested in the business world!
 
-Favorite games - CS2, VALORANT, LEAGUE OF LEGENDS, FORTNITE
 
-Hobbies: Video games, Weight lifting (Personal records - BENCH: 405 SQUAT: 545 DEADLIFT: 655 conventional) 
+## I'm currently working on: developing applications.
 
-## I'm currently working on 
+In Progress:
+Medical Transcription Tool
+Stock Swing Trading
+CS2 Skin Market Extension
+ADHD & Focus support (Potentially pivot to a therapy app)
 
-##  I’m currently learning
-
-## How to reach me 📫
+Interests: 
+Video games (CS2, VALORANT, FORTNITE, LEAGUE OF LEGENDS)
+Weight lifting (Personal records - BENCH: 405 SQUAT: 545 DEADLIFT: 655 conventional) 
+Trading Markets
