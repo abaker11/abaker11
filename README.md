@@ -1,4 +1,4 @@
-## Hi there , I'm Amir! 👋
+## Hi, I'm Amir! 👋
 
 
 😄 Favorite games - CS2, VALORANT, LEAGUE OF LEGENDS, FORTNITE
