@@ -45,6 +45,7 @@ developing applications
 Outside of coding and data, you’ll find me lifting weights at the gym or gaming with friends. I believe in the value of a strong mind and body—and the fun of a little competition!
 
 Weight Lifting PRs: 405 Bench, 655 Conventional Deadlift, 545 Squat
+
 Favorite Games: CS2, Valorant, Fortnite, League of Legends
 
 ---
