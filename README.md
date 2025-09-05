@@ -10,7 +10,7 @@ My name is Amir. I majored in Computer Engineering heavily interested in the bus
 
 ### 🚀 About Me
 
-I'm a passionate **Software Engineer** specializing in Data Platforms, e-commerce growth, digital marketing, and scalable solutions. I thrive at the intersection of software development and business, translating objectives into high-impact, data-driven results.
+I'm a **Software Engineer** specializing in Data Platforms, e-commerce growth, digital marketing, and scalable solutions. I thrive at the intersection of software development and business, translating objectives into high-impact, data-driven results.
 
 - 🏢 **Software Engineer, Data Platform** Ex-[Indeed](https://www.indeed.com/) / [Glassdoor](https://www.glassdoor.com/)
 - 🛒 **E-commerce & Marketing Consultant** @ [AB Web Solutions](https://github.com/abaker11/amirbsolutionsv2)
