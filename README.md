@@ -20,9 +20,9 @@ I'm a passionate **Software Engineer** specializing in Data Platforms, e-commerc
 
 ### 🛠️ Skills & Technologies
 
-**Languages:** Python · Java · JavaScript · SQL · HTML · CSS  
-**Frameworks/Libraries:** React Native · Node.js · Tailwind  
-**Tools:** Snowflake · Airflow · SQLMesh · Android Studio · Git · Shopify · Google Ads & Analytics · Linux · Vim · Ecomerce · Shopify · Docker, Podman, Rancher, Colima, Orbstack · Astronomer Airflow · AI tools (Claude, ChatGPT, Claude Code, Gemini CLI, n8n, Agentic AI, Model Context Protocol, Warp Terminal) · SEO · PPC · Database Management · CISCO Networking · SQLite · MongoDB · Amazon Web Services (Secrets Manager, S3, EC2, EMR, ECR, Glue, etc) 
+Languages: Python · Java · JavaScript · SQL · HTML · CSS  
+Frameworks/Libraries: React Native · Node.js · Tailwind  
+Tools: Snowflake · Airflow · SQLMesh · Android Studio · Git · Shopify · Google Ads & Analytics · Linux · Vim · Ecomerce · Shopify · Docker, Podman, Rancher, Colima, Orbstack · Astronomer Airflow · AI tools (Claude, ChatGPT, Claude Code, Gemini CLI, n8n, Agentic AI, Model Context Protocol, Warp Terminal) · SEO · PPC · Database Management · CISCO Networking · SQLite · MongoDB · Amazon Web Services (Secrets Manager, S3, EC2, EMR, ECR, Glue, etc) 
 ---
 
 ### 🌟 Featured Projects
