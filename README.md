@@ -29,13 +29,12 @@ Tools: Snowflake · Airflow · SQLMesh · Android Studio · Git · Shopify · Go
 
 ## 👷🏼‍♂️I'm currently working on: 
 developing applications
-
-In Progress:
 - Medical Transcription Tool
 - Stock Swing Trading
 - CS2 Skin Market Extension
-- ADHD & Focus support (Potentially pivot to a therapy app)
+- ADHD & Focus support (Potentially a therapy app)
 - Meal suggestion
+- Prayer Time Application
 ---
 
 ### 🎮 Interests
