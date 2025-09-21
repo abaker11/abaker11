@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amir
 
-My name is Amir. I majored in Computer Engineering heavily interested in the business world!
+My name is Amir. Computer Engineering graduate heavily interested in business and financial markets.
 
 ![Profile Banner](https://img.shields.io/badge/Data%20Platform%20Engineer-%23007ACC.svg?logo=data&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirb75)
